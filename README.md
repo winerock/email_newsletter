@@ -9,4 +9,5 @@ On Kristi's site: [View in browser](https://kristidugan.github.io/emailnewslette
 Other Useful Links
 
 Moms Can Code [View in browser](https://www.momscan.co/momscancode/)
+
 Shakespeare and Dance Project [View in browser](https://shakespeareandance.com/)
